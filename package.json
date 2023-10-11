@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "xlsx": "^0.18.5"
+  },
+  "name": "bluejay",
+  "version": "1.0.0",
+  "main": "shift.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
